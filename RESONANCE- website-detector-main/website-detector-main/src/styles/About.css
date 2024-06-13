@@ -1,0 +1,17 @@
+/* About.css */
+
+div {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    color: #0a0a0a;
+  }
+  
+  p {
+    color: #000000;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
